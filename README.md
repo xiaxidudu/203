@@ -1,2 +1,2 @@
-# 用于储存203机器人实验室的部分资料
-该资料仅用于大家学习交流，非本实验室成员请勿直接用于比赛！
+# Used to store part of the data in the robotic laboratory
+
